@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87d3c635.css",
+    "main.js": "/static/js/main.02f36f4a.js",
+    "static/media/florida_peppermint_book_cover.jpeg": "/static/media/florida_peppermint_book_cover.9cfd2bc465ecd641fc8b.jpeg",
+    "static/media/I know My Father's Voice.jpg": "/static/media/I know My Father's Voice.c252974f2ecfd3f4a800.jpg",
+    "static/media/Grandma's Lap.JPG": "/static/media/Grandma's Lap.45251adb70326f40ec9d.JPG",
+    "static/media/Reginapic2updated.JPG": "/static/media/Reginapic2updated.904b3b774ee58a83641d.JPG",
+    "index.html": "/index.html",
+    "main.87d3c635.css.map": "/static/css/main.87d3c635.css.map",
+    "main.02f36f4a.js.map": "/static/js/main.02f36f4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d3c635.css",
+    "static/js/main.02f36f4a.js"
+  ]
+}
